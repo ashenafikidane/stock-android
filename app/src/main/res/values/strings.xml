@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">stock-android</string>
+    <string name="stock">Stock</string>
+
+
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+<!--    Welcome-->
+    <string name="stock_forgot_password">Forgot password?</string>
+    <string name="stock_login">Log in</string>
+    <string name="stock_hint_email">Email</string>
+    <string name="stock_hint_password">Password</string>
+
+
+<!--    Home-->
+    <string name="stock_items">Items</string>
+    <string name="stock_agents">Agents</string>
+    <string name="stock_total_item">Total item =</string>
+
+
+</resources>
